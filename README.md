@@ -4,4 +4,5 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](
+    **1.** Create a _[customer performance report](https://github.com/Zeeshu3126/Atliq/blob/main/Customer%20Performance%20Report.pdf)_
+  
