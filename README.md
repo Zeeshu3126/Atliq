@@ -30,4 +30,4 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Zeeshu3126/Atliq/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)_&_[Months](
