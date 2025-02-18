@@ -34,4 +34,4 @@
 
 **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Zeeshu3126/Atliq/blob/main/P%20%26%20L%20Year(Markets).pdf)_
 
-**3.** Create GM% by Quarters(sub zone) Reports _(https://github.com/Zeeshu3126/Atliq/blob/main/GM%25%20By%20Quarters(Sub%20Zone).pdf)_
+**3.** Create GM% by Quarters Reports by _[sub zone](https://github.com/Zeeshu3126/Atliq/blob/main/GM%25%20By%20Quarters(Sub%20Zone).pdf)_
